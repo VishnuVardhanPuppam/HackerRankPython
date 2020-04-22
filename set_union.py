@@ -1,5 +1,3 @@
-AuB.png 
-
 .union()
 
 The .union() operator returns the union of a set and the set of elements in an iterable.
